@@ -1,0 +1,57 @@
+
+1. at command line, goto directory with files to be version controlled
+
+2. initialize Git so you can start using Git commands inside the directory:
+
+git init
+
+the directory is now a Git repository
+
+3.  to view untracked files and changes not staged for commit:
+
+git status
+
+4.  to track an untracked file:
+
+git add 'filename'
+(file will be moved from 'Untracked files' section to 'Changes to be committed:' section)
+
+5.  to stage a modified file that has not yet been staged for commit:
+
+git add 'filename'
+(file will be moved from 'Changes not staged for commit' section to 'Changes to be committed:' section)
+
+6.  to take a 'snapshot' of the repository as it stands now:
+
+git commit -m "Some text to explain commit"
+
+7.  to sync changes to GitHub repo:
+
+git remote add origin
+https://address/of/GitHub/repo
+
+8.  verify origin:
+
+git remote -v
+
+9.  upload files to repo:
+
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
