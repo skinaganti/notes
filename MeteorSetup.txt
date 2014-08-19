@@ -60,29 +60,43 @@ sudo apt-get install vim
 
 Steps on the Ubuntu command line (to create new project):
 
-13. cd /vagrant (This is shared with the windows host by default)  
+1. cd /vagrant (This is shared with the windows host by default)  
 
-14. mrt create ~/meteorapp
+2. mrt create ~/meteorapp
 this creates the app in the home directory inside the vm 
 
-15. mrt create meteorapp && cd meteorapp && rm -rf .meteor && mkdir .meteor/
+3. mrt create meteorapp && cd meteorapp && rm -rf .meteor && mkdir .meteor/
 this creates the app in the /vagrant directory in the vm (which is shared with the windows host),
 then it goes into the app's folder and deletes the .meteor directory and creates a new empty .meteor directory
 
-16. sudo mount --bind /home/vagrant/meteorapp/.meteor/ /vagrant/meteorapp/.meteor/
+4. sudo mount --bind /home/vagrant/meteorapp/.meteor/ /vagrant/meteorapp/.meteor/
 this links the '.meteor' directory in the home directory (the source) to the '.meteor' directory in the /vagrant directory (the destination) 
 
 this is required bc the Meteor app doesn't have permission to the files in '.meteor' in the /vagrant directory bc it is shared by windows, but it does have permission to access the files in '.meteor' in the home directory in the vm 
 (for more detailed information on the reasons for doing steps 14, 15, and 16, please see Symbolic Link notes)
 
 
-17. echo “sudo mount --bind /home/vagrant/meteorapp/.meteor/ /vagrant/meteorapp/.meteor/” >> ~/.bashrc && source ~/.bashrc 
+5. echo “sudo mount --bind /home/vagrant/meteorapp/.meteor/ /vagrant/meteorapp/.meteor/” >> ~/.bashrc && source ~/.bashrc 
 you can also vim into '~/.bashrc' and add 'mount --bind /home/vagrant/meteorapp/.meteor/ /vagrant/meteorapp/.meteor/'
 to the last line of the bashrc file and then run the command 'source ~/.bashrc' at the command prompt
 
-18. mrt run
+6. mrt run
 
 Go to http://localhost:3000 in Windows browser and see it running! :)
+
+
+
+Meteor Packages
+
+1. To add password support for user accounts in your meteor app:
+
+meteor add accounts-password
+
+2.  To add a front end for the accounts system with a form for users to register and login, and an interface
+for users to change settings, recover last passwords, etc...
+
+meteor add accounts-ui
+
 
 
 Symbolic Link Notes:
@@ -102,6 +116,7 @@ Also the see the following note:
   -https://github.com/shoebappa/vagrant-meteor-windows
 
 
+  
 Linux Notes:
 
 '/vagrant' on vm points to 'C:/mtr' on win box
