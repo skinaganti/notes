@@ -1,0 +1,178 @@
+--Economics
+
+-Race
+
+http://www.nytimes.com/2014/08/18/opinion/in-ferguson-black-town-white-power.html
+
+http://www.theatlantic.com/national/archive/2014/08/Reparations-For-Ferguson/376098/
+
+http://www.theatlantic.com/features/archive/2014/05/the-case-for-reparations/361631/
+
+http://www.vox.com/xpress/2014/8/18/6030265/john-oliver-ferguson-monologue
+
+http://www.slate.com/articles/news_and_politics/politics/2014/08/ferguson_protests_over_michael_brown_won_t_end_soon_the_black_community.html
+  "But while calm is hard to predict, one thing is clear: The events in Ferguson—from the shooting to the police response and everything since—are a product of familiar forces and stem from a familiar history. Put another way, the area’s long-bottled racial tension has burst, and it’s difficult to know if it can be resolved, much less contained. Like many American cities, St. Louis can’t be untangled from segregation."
+
+
+-Technology
+
+http://www.slate.com/articles/technology/future_tense/2014/06/john_oliver_s_net_neutrality_segment_speaks_the_truth.html
+
+
+-Prison
+
+http://www.theatlantic.com/politics/archive/2014/07/the-leader-of-the-unfree-world/374348/
+
+
+-Debt
+
+http://www.nytimes.com/interactive/2014/08/15/magazine/bad-paper-debt-collector.html?_r=0
+
+http://www.theatlantic.com/business/archive/2013/03/dont-panic-wall-sts-going-crazy-for-student-loans-but-this-is-no-bubble/273682/
+
+http://www.theatlantic.com/business/archive/2014/05/house-of-debt/371282/
+
+  "...in their just-released book, House of Debt, they argue that the Great Recession was the result of a sharp fall-off in consumption due to the unevenly accumulated household debt in the first six years of the 21st century. In that period, mortgage-credit grew more than twice as fast in neighborhoods with low credit scores than in neighborhoods with high credit scores, a marked departure from the experience of previous decades. When the housing bubble popped, the economic consequences were sharply magnified by the way debt was distributed across households and communities.
+
+  "How did this happen? Why did lenders suddenly shower less-creditworthy borrowers with trillions of dollars of credit? Mian and Sufi demonstrate this was enabled by the securitization of home mortgages by investment banks that did not seek federal guarantees from Fannie and Freddie—so called private-label securities, made possible by financial deregulation and the glut of cash in world markets in the wake of the Asian financial crisis of the late 1990s. That private-label mortgage-backed securities were at the core of the housing meltdown is no longer in doubt, but what Mian and Sufi bring to the debate is how an unequal distribution of debt magnified the economic risks."
+
+
+-Education
+
+http://www.theatlantic.com/features/archive/2014/08/the-law-school-scam/375069/
+
+
+-Medicine
+
+http://www.theatlantic.com/health/archive/2014/08/do-people-in-pain-have-a-right-to-relief/375948/2/
+
+  "Pain, in short, is political. That is the argument Keith Wailoo, a Princeton historian of medicine and public policy scholar, makes in Pain: A Political History, which sets out to show “how the powerful question of other people’s pain became a recurring site for political battle.” Wailoo’s account begins with the post-World War II challenge of caring for disabled veterans, and proceeds through conflicts over entitlement programs, “fetal pain,” euthanasia, and the rise of OxyContin. Wailoo identifies pain as the impetus, and often proxy, for debates—played out in courtrooms as much as in doctors’ offices—about not just health care, but government regulation, business, constitutional rights, and the American character.
+
+  "The pain of the fetus and the pain of the taxpayer mattered most; the addict’s pain was suspect, the housewife's pain imagined.
+Our modern culture of pain management is a product of this history. So is our modern crisis of opiate addiction."
+
+
+
+--Technology
+
+http://www.openculture.com/2014/07/william-gibson-in-no-maps-for-these-territories.html
+
+  "The long ride gives us an extended look into Gibson’s curious, far-reaching mind as he explores issues of the inevitability with which we find ourselves “penetrated and co-opted” by our technology; growing up in a time when “the future with a capital F was very much a going concern in North America”; the loss of “the non-mediated world,” a country to which we now “cannot find our way back”; the modern reality’s combination of “a pervasive sense of loss” and a Christmas morning-like “excitement about what we could be gaining”; his early go-nowhere pastiches of J.G. Ballard and how he then wrote Neuromancer as an approach to the “viable but essentially derelict form” of science fiction; his fascination with the sheer improbability of those machines known as cities; and his mission not to explain our moment, but to “make it accessible,” finding the vast, near-incomprehensible structure underlying the pounding waves of thought, trend, and technology through which we all move."
+
+
+Josh - Wal-mart distribution center, fine black rubber dust particles embedded in the throat and lungs, violently dislodged through bouts of coughing and hacking, peformance reviews, constant measurement, optimizing for efficiency, relentless logistics, the breaking of human bodies
+
+
+
+Technopoly, Neil Postman
+
+  "If it makes sense to us, that is because our minds have been conditioned by the technology of numbers so that we see the world differently than they did. Our understanding of what is real is different. Which is another way of saying that embedded in every tool is an ideological bias, a predisposition to construct the world as one thing rather than another, to value one thing over another, to amplify one sense or skill or attitude more loudly than another. This is what Marshall McLuhan meant by his famous aphorism "The medium is the message." This is what Marx meant when he said, "Technology discloses man's mode of dealing with nature" and creates the "conditions of intercourse" by which we relate to each other. It is what Wittgenstein meant when, in referring to our most fundamental technology, he said that language is not merely a vehicle of thought but also the driver. And it is what Thamus wished the inventor Theuth to see."
+
+
+http://www.english.hawaii.edu/criticalink/heidegger/guide6.html
+
+  "We noted before that nature reveals itself to us in its own terms, and all that humanity can directly control is its orientation to the natural world. We should think of "nature" here in the broadest sense, as the entire realm of the non-human--but also including such things as our physical bodies, over which we have only limited control. What characterizes the essence of modern technology, for Heidegger, is the human impulse to put the world "into boxes," to enclose all of our experiences of the world within categories of understanding--mathematical equations, physical laws, sets of classifications--that we can control.
+
+  "When Heidegger states that "the essence of technology is by no means anything technological," he means that technology's driving force is not located in machines themselves, nor even in the various human activities that are associated with modern modes of production. In his example of the automobile, the parts the make up the machine as well as the labor of the factory workers all belong to technology, but are not its essence. The "frame of mind" that views the world--its reserves of metal ore, its chemical structures, its human population--as raw materials for the production of automobiles approaches more closely what Heidegger means by the essence of technology. Heidegger's argument, however, is more far-reaching. He claims that enframing stems from the human drive for a "precise" and "scientific" knowledge of the world.
+
+  "Heidegger now sets out to place technology within the history of the modern sciences. He makes the remarkable suggestion that in at least one sense modern technology comes before the development of modern physics and actually shapes that development. This claim will make sense to us if we remember that for Heidegger the essence of technology is that orientation to the world he calls "enframing." Insofar as the human drive for a precise, controllable knowledge of the natural world paves the way for modern physics, we can say that "enframing," and thus the essence of modern technology, precedes and determines the development of modern science.
+
+
+http://www.salon.com/2012/09/14/rethinking_cosmopolis/
+
+  "Cosmopolis’s grimness — and it is Hell-dark, a near Miltonic vision of greed, chaos, and soul-squandering — is, it turns out, an altogether apt reflection of its theme, which is the remorseless momentum of post-Berlin Wall capitalism, of a New World Order that has no symmetrical foe aside from “terrorism” and which is wedded inexorably to technologies of such seamless, speed-of-light efficiency that it promises the very transcendence of the physical, an escape from mortality itself into the dream-realm of the cybernetic. As Eric Packer, Cosmopolis’s dread anti-hero, would have it: “He’d always wanted to be quantum dust, transcending his body mass, the soft tissue over the bones, the muscle and fat. The idea was to live outside the given limits, in a chip, on a disk, as data, in whirl, in radiant spin, a consciousness saved from void.”
+
+  "The promise of technological transcendence is, of course, bullshit. It’s the postmodern version of Icarus flying his feather-and-wax contraption toward the sun, and we all know how that ended. But the Icarus myth speaks to psychic ambitions that maybe no amount of historical failure can squelch, and the contemporary version of it is perhaps more powerful than ever. Cosmopolis gives full voice to a promise of life lived in the hubristic confidence that the human limits of time and death can be eluded through one’s ownership and manipulations of technology — in fact, it gives us a central character who is in thrall to that idea. At the same time, it supplies our literature with the most trenchant critique of the soul-sickness of such a belief since, probably, Thomas Pynchon’s Gravity’s Rainbow, a novel it piggybacks in several ways. And in Eric Packer, it gives us a character of truly tragic dimensions.
+
+  "“For someone your age, with your gifts, there’s only one thing in the world worth pursuing professionally and intellectually,” Eric Packer tells Michael Chin, his “currency analyst,” as they inch their way west on traffic-packed 47th Street on the way to the barbershop where Eric insists on getting a haircut. “What is it, Michael? The interaction between technology and capital. The inseparability.” 
+
+  "Now, if Eric Packer were a mere proponent of this creed, he’d be no more than one of Philip K. Dick’s more pulpy protagonists, dazzled by the digital imperative. But, as his nemesis Benno Levin tells him, “Your whole waking life is a self-contradiction.” Multi-billionaire Packer is haunted by “the stirs of a melancholy,” residues of humane memory that induce him to take, one April morning, a trip cross-town to the old-fashioned barbershop he went to as a child. And he’s animated by more than nostalgia: Packer is a slave to his body. Obsessed with his “asymmetrical prostate,” he gets daily doctor visits to monitor it. He is always hungry — he craves red meat, food that is “thick and chewy.” He’s also permanently on the prowl for sex, with his wife (who denies him), and with his female advisors and bodyguards (who don’t) — and he always reeks of it. Though he has sex several times during the course of the day — in 47th Street hotels, in the limo — it’s not enough. After a particularly vigorous coupling with his bodyguard, he asks her to fire her stun-gun at his chest. “I’m looking for more. Show me something I don’t know.” She complies, and finally, it seems, he gets some relief from the compulsions of mind and body: “The voltage had jellified his musculature for ten or fifteen minutes and he’d rolled about on the hotel rug, electroconvulsive and strangely elated, deprived of his faculties of reason.” But soon enough those faculties return, and he realizes that even electrification isn’t enough; he needs to court mortality itself: the flip side of his desire to escape into the digital is a fierce desire to confront his own death. (The self-contradiction comes, as it so often does, in the form of the return of the repressed.)
+
+  "And when he finally does meet his stalker — the soul-dead Benno Levin, who used to work for Packer and sees him as the embodiment of the techno-economic system responsible for destroying him — he not only shoots himself through the hand (it’s his final desperate attempt to feel) but allows Levin to raise his own gun to Packer’s head, where it is poised as the novel ends.
+
+  "Packer’s tragic trajectory takes the form of an Icarusian plummet from Brilliant Young Turk to Absolute Zero. The tragedy also has a powerfully philosophical edge: Packer is like somebody dreamed up by Martin Heidegger to illustrate the peculiar despairs of technologically advanced civilization. For Heidegger, technology is exactly the distancing device that prevents us from achieving some full and direct encounter with the real — what he called Being itself. The “essence” of technology, Heidegger said, isn’t machines or systems of production, but a point of view that looks at reality only in terms of its instrumental use value: for example, it looks at a tree for the lumber it provides, not for the tree’s intrinsic tree-ness (its Being), or in Packer’s case, looks at, say, trading billions of yen exclusively as a game of profit or loss rather than something that has real-life effects on real-life labor, real-life consumers, the real-life environment. Looking at the world “technologically” is what alienation is, and Packer’s is the ne plus ultra of Heideggerian alienation. What’s worse, he knows it, and so in his despair designs an end for himself that will at last bring him some measure of contact with the real, even if it comes in the form of a bullet to the back of his head."
+
+
+
+--Privilege
+
+http://www.theatlantic.com/entertainment/archive/2014/07/confronting-privilege-in-philip-roths-identity-tales/373782/2/
+
+  "It doesn’t matter. I love Coleman’s audacity, his determination, his rebellion, his ardency, and the supple, vigorous prose and most un-Nabokovian argument with which they’re delivered. I want Coleman to slough off the we and with it any obligation to some grand scheme of the collective will. A representative of the ruling class, I root for him. It’s the same as rooting for the American dream.
+
+  "You can hear another great American thinker in the rhythms and repetitions of Roth’s prose: Ralph Waldo Emerson. “I appeal from your customs,” Emerson wrote in “Self-Reliance,” “I must be myself. I cannot break myself any longer for you, or you. If you can love me for what I am, we shall be happier. If you cannot, I will still seek to deserve that you should. I must be myself.” 
+
+  "With uncommon felicity and characteristic lucidity, Roth demonstrates the complex, often fatal consequences of living according to Emerson’s individualist creed. That creed was given legal shelter by the founding fathers, and two and a quarter centuries later, it’s major dramaturge wrote The Human Stain. Roth dramatizes better than anyone, more so even than Whitman, how Emerson’s elliptical and oracular essays might play out in real life, the consummations and ravages of its single-minded pursuit.
+
+  "It’s this that I turn to Roth for, which I do now more than Nabokov: for his urgency and relevance, for his argumentation and applicability. He is not as high-minded, nor as metaphysical, nor as sensuous or poetical. But he’s furthering a native tradition of thought that extends through time to this country’s deepest political impulse, namely, the imperial inviolability of the person. There is no higher art than that.
+
+
+
+Capitalism
+
+http://www.theatlantic.com/business/archive/2014/08/the-wonderful-weird-economics-of-burning-man/376108/
+
+
+http://www.critical-theory.com/buzzfeed-founder-responds-to-his-marxist-roots-lol/
+
+  "The piece, entitled “Capitalism and Schizophrenia,” later notes that the “rapid fire succession of signifiers” erodes a sense of temporal continuity, before going on to argue that advertisement “must provoke an ego formation that makes the product integral to the viewer’s identity.”
+
+
+http://www.vox.com/2014/5/20/5730762/buzzfeeds-founder-used-to-write-marxist-theory-and-it-explains
+
+  Peretti's article is an interpretation of Jameson's "Postmodernism and Consumer Society" and Deleuze and Guattari's Anti-Oedipus: Capitalism and Schizophrenia, both of which use "schizophrenia" as a key part of their analysis.
+
+  "Schizophrenia" here doesn't have much of anything to do with the actual mental illness (as Jameson writes, "I'm not even sure that the view of schizophrenia I'm about to outline … is clinically accurate"), and in retrospect the use of an actual illness from which millions of people suffer as an abstract tool of cultural criticism is rather cringe-inducing. I use the term here since it's the preferred jargon within cultural theory, but, for the record, it's gross and they should have found another word.
+
+  "In context of the theory, both Jameson and Deleuze/Guattari use "schizophrenic" to refer to a person without a defined identity or ego. Jameson, for one, thinks "late" capitalism (which he said was beginning to emerge in the mid-1980s, as he was writing) causes that kind of schizophrenia. People usually build identities, after all, at least in part from cultural items (songs, movies, TV shows, advertisements, etc) they encounter. But Jameson thinks that if those items are presented in a scrambled, confusing way to people, they have a hard time forming identities, and run the risk of schizophrenia.
+
+  "That scrambling of cultural content was starting to happen in the mid-1980s, when Jameson was writing. Peretti's favorite example of this phenomenon is MTV. Whereas variety shows and televised concerts in the 1960s and 70s provided context and structure to the music they presented, MTV instead gave viewers a rapid succession of wildly different sounds and visual accompaniments to those sounds, without any logic connecting one video to another. That, in Jameson's framework, serves to confuse viewers, harm their ability to use culture to build identities, and increase the risk of people failing to build identities altogether — making them "schizophrenic" in his terminology.
+
+  "The rapid fire succession of signifiers in MTV style media erodes the viewers sense of temporal continuity," Peretti writes. "To use the same words that Jameson uses to describe schizophrenic experiences, the images that flash across the MTV viewers' retina are 'isolated, disconnected, discontinuous material signifiers which fail to link up into a coherent sequence.'"
+
+Deleuze and Guattari, by contrast, think the schizophrenic is, as Peretti puts it, "capitalism's exterminating angel." Precisely because the schizophrenic can't turn the messages that capitalist forces is bombarding him with into a coherent identities, he is able to resist those forces and act upon her actual desires.
+
+"Weak egos that are easily formed"
+
+  "So which is it? Does capitalism, in its advanced stages, need "schizophrenics," or are they the only ones able to resist it?
+
+  "Neither, Peretti answers. Capitalism needs people to have moments of schizophrenia, where their personal identities are in flux, but it also needs them to be able to recover from those moments with new identities, which can fuel new consumption so as to realize the identities in question. "Capitalism needs schizophrenia, but it also needs egos," he writes. "The contradiction is resolved through the acceleration of the temporal rhythm of late capitalist visual culture. This type of acceleration encourages weak egos that are easily formed, and fade away just as easily."
+
+  "Peretti also cites celebrity culture as a potential mechanism for generating identities. "To promote consumer capitalism the images must have some content to create the possibility for a mirror stage identification," he writes. "It is this identification ­­with a model, athlete, or actor­­ that encourages the purchase of the product being pitched. In order for an advertisement in GQ to be successful, it must provoke an ego formation that makes the product integral to the viewer's identity." So a smart capitalist would provide ways for people to get personally invested in the lives of, say, Kim Kardashian, by showing how relatable she is, and how she plugs into readers' identities (or at least the identities they're juggling at the given moment).
+
+  "Capitalism, Peretti concluded, needs to be constantly producing identities for peoples if the system is to survive."
+
+
+http://www.theatlantic.com/entertainment/archive/2014/07/lessons-in-capitalism-from-kim-kardashian/375252/2/
+
+  "There is a brute logic to all of this. There is also an economic essentialism to all of this. Every possible move in the game that is Kim Kardashian: Hollywood represents a strategic violation of the categorical imperative: The whole point is to use anything available to you—goods, money, other people—as means to your own self-furtherment. This is capitalism, essentially, stripped of its remaining niceties and applied to the unique vapidity of Hollywood social life."
+  
+
+https://www.goodreads.com/work/quotes/3019373-cosmopolis
+
+  “People will not die. Isn't this the creed of the new culture? People will be absorbed in streams of information. I know nothing about this. Computers will die. They're dying in their present form. They're just about dead as distinct units.” 
+
+
+https://www.goodreads.com/work/quotes/327422-white-noise
+
+  “The supermarket shelves have been rearranged. It happened one day without warning. There is agitation and panic in the aisles, dismay in the faces of older shoppers.[…]They scrutinize the small print on packages, wary of a second level of betrayal. The men scan for stamped dates, the women for ingredients. Many have trouble making out the words. Smeared print, ghost images. In the altered shelves, the ambient roar, in the plain and heartless fact of their decline, they try to work their way through confusion. But in the end it doesn’t matter what they see or think they see. The terminals are equipped with holographic scanners, which decode the binary secret of every item, infallibly. This is the language of waves and radiation, or how the dead speak to the living. And this is where we wait together, regardless of our age, our carts stocked with brightly colored goods. A slowly moving line, satisfying, giving us time to glance at the tabloids in the racks. Everything we need that is not food or love is here in the tabloid racks. The tales of the supernatural and the extraterrestrial. The miracle vitamins, the cures for cancer, the remedies for obesity. The cults of the famous and the dead.”
+
+  “We drove 22 miles into the country around Farmington. There were meadows and apple orchards. White fences trailed through the rolling fields. Soon the sign started appearing. THE MOST PHOTOGRAPHED BARN IN AMERICA. We counted five signs before we reached the site. There were 40 cars and a tour bus in the makeshift lot. We walked along a cowpath to the slightly elevated spot set aside for viewing and photographing. All the people had cameras; some had tripods, telephoto lenses, filter kits. A man in a booth sold postcards and slides -- pictures of the barn taken from the elevated spot. We stood near a grove of trees and watched the photographers. Murray maintained a prolonged silence, occasionally scrawling some notes in a little book. 
+
+"No one sees the barn," he said finally. 
+
+A long silence followed. 
+
+"Once you've seen the signs about the barn, it becomes impossible to see the barn."
+
+He fell silent once more. People with cameras left the elevated site, replaced by others.
+
+We're not here to capture an image, we're here to maintain one. Every photograph reinforces the aura. Can you feel it, Jack? An accumulation of nameless energies." 
+
+There was an extended silence. The man in the booth sold postcards and slides. 
+
+"Being here is a kind of spiritual surrender. We see only what the others see. The thousands who were here in the past, those who will come in the future. We've agreed to be part of a collective perception. It literally colors our vision. A religious experience in a way, like all tourism." 
+
+Another silence ensued. 
+
+"They are taking pictures of taking pictures," he said.”  
